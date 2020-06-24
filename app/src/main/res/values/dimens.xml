@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="Margin_S">20dp</dimen>
+	<dimen name="Margin_XS">30dp</dimen>
+	<dimen name="Search_Edit_W">500dp</dimen>
+	<dimen name="Search_Edit_H">40dp</dimen>
+	
+	 	<dimen name="First_Title_Font_Size">32sp</dimen>
+	<dimen name="Second_Title_Font_Size">28sp</dimen>
+	<dimen name="Common_Text_Font_Size">26sp</dimen>
+	<dimen name="Description_Font_Size">22sp</dimen>
+	<dimen name="Special_Small_Font_Size">18sp</dimen>
+	
+	    <dimen name="edit_height">600dp</dimen>
+    <dimen name="edit_padding">640dp</dimen>
+    <dimen name="edit_font">45sp</dimen>
+</resources>
+

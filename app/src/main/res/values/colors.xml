@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#fd8d8d</color>
+	<color name="green">#9cfda3</color>
+	<color name="blue">#8d9dfd</color>
+	<color name="white">#FFFFFF</color>
+	<color name="black">#000000</color>
+	<color name="gray">#050505</color>
+	<color name="darkGray">#242424</color>
+	<color name="tableBackground">#282828</color>
+	<color name="orange">#FFCB46</color>
+	<color name="transparent">#00FFFFFF</color>
+	<color name="lightBlack">#272727</color>
+	<color name="lightBlue">#003d79</color>
+	<color name="dlg_dividebar">#ff000000</color>
+    <color name="background">#ffffffff</color>
+    <color name="font_black">#ff000000</color>
+    <color name="font_white">#ffffffff</color>
+	
+</resources>
+

@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+    
+    <style name="activityTheme" parent="android:Theme"> 
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style> 
+
+    <style name="activityTheme_Fullscreen" parent="@style/activityTheme">
+        <item name="android:windowFullscreen">true</item>
+		<!-- <item name="android:windowIsTranslucent">true</item> -->
+    </style>
+</resources>

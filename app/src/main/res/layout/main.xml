@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="@android:color/white">
+    
+    
+    <EditText
+			android:id="@+id/EditText1" android:layout_width="1400dp"
+			android:layout_height="@dimen/edit_height" android:textColor="#000000"
+			android:layout_marginTop="@dimen/edit_padding"
+			android:gravity="left|top" android:textSize="@dimen/edit_font"
+			android:layout_marginLeft="120dp"
+			android:background="@drawable/whitebutton2"
+	/>
+    
+    <!-- 
+			android:textCursorDrawable="@drawable/color_cursor" -->
+	
+	 
+	 <!--
+	  <EditText
+        android:id="@+id/edit_comment_note"
+        android:layout_width="1400dp"
+        android:layout_height="319dp"
+        android:layout_margin="25dp"
+        android:textSize="@dimen/First_Title_Font_Size"
+        android:textColor="@color/font_black"
+        android:background="@drawable/whitebutton2" 
+        android:gravity="left|top"
+        android:maxLength="128"
+        android:maxLines="5">
+    </EditText>
+	  -->  
+
+</LinearLayout>
